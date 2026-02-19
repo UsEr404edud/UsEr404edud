@@ -1,5 +1,5 @@
-<h1 align="center">Oi, seja bem vindo<br><br>hobby jogar jogos onlines</h1>
-
+<h1 align="center">Oi, seja bem vindo<br><br> </h1>
+<h2>Me chamo Eduardo Almeida, hobby favorito jogar jogos onlines,conteudo que eu mais gostei front end<br></h2>
 ###
 
 <div align="center">
